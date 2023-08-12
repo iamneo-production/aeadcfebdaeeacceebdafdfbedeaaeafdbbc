@@ -41,7 +41,7 @@ export const Questions = [
         optionA: "Blue" ,
         optionB: "Red",
         optionC: "Yellow" ,
-        optionD: "Green",
+        optionD: "Show Results",
         answer: "Yellow"
     }
 ]
